@@ -1,0 +1,4 @@
+Фреймворки для веба
+Django, Flask, FastAPI.
+Используют [[doc1.txt]].
+Для [[doc2.txt]].

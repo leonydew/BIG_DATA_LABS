@@ -1,0 +1,4 @@
+SQL базы данных
+MySQL, PostgreSQL.
+Для [[doc5.txt]].
+Используются в [[doc2.txt]].

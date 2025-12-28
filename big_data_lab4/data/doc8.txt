@@ -1,0 +1,4 @@
+Библиотеки Python
+NumPy, Pandas, Scikit-learn.
+Для [[doc1.txt]] и [[doc6.txt]].
+Установка: [[doc9.txt]].
